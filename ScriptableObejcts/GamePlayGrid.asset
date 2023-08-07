@@ -12,3 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f8b71185163b67242ae8cc9a56d0e139, type: 3}
   m_Name: GamePlayGrid
   m_EditorClassIdentifier: 
+  _gameGridPrefab: {fileID: 108211422218042248, guid: c7441445b592d244db18c0127dc0c3a6, type: 3}
+  _gridSpawnPoint: {fileID: 5877268821549356060, guid: c7441445b592d244db18c0127dc0c3a6, type: 3}
+  _gameCamera: {fileID: 2378954876491911760, guid: 6a7e592865bbef8429e4ad02cc1ed914, type: 3}
+  _pathMaterial: {fileID: 2100000, guid: 8375d9a39a3d66a478b54485e870d352, type: 2}
+  _areaMaterial: {fileID: 2100000, guid: 4e60ab638b3e08545bd09e26e02ebcea, type: 2}
+  _playerMaterial: {fileID: 2100000, guid: 45b56cb658b4db04495fd2ec2cb49b3a, type: 2}
+  _gridrow: 1
+  _gridcol: 10
+  _gridspace: 1.5
